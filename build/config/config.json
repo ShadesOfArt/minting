@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd0209Da49caFB045aD56E78Ed7D39D5a632D8c3a",
+  "SCAN_LINK": "https://etherscan.io/address/0xd0209da49cafb045ad56e78ed7d39d5a632d8c3a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Anti Fiat Degen Club",
+  "SYMBOL": "Clone",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/anti-fiat-degen-club",
+  "SHOW_BACKGROUND": true
+}
